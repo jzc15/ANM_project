@@ -1,0 +1,11 @@
+.vscode/*
+*.zip
+*.rar
+*.DS_store
+*_result.csv
+*_MACOSX/
+*train
+*test
+*.csv
+*.hdf
+*result_vae*
